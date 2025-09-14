@@ -14,13 +14,13 @@ coding-practice-java/
 
 ## 🚀 Daily Progress
 
-### ✅ [Day 1: Loops & Basics](notes/day01.md)
-- [MultiplicationTable.java](day01/MultiplicationTable.java) → Print multiplication table of a number up to a given limit.  
-- [ReverseNumber.java](day01/ReverseNumber.java) → Reverse the digits of an integer (handles negative numbers).  
+### ✅ [Day 1: Loops & Basics](notes/day1.md)
+- [MultiplicationTable.java](day1/MultiplicationTable.java) → Print multiplication table of a number up to a given limit.  
+- [ReverseNumber.java](day1/ReverseNumber.java) → Reverse the digits of an integer (handles negative numbers).  
 
-### ⏳ [Day 2: Strings & Recursion](notes/day02.md)
-- [PalindromeString.java](day02/PalindromeString.java)  
-- [FactorialNumber.java](day02/FactorialNumber.java)  
+### ⏳ [Day 2: Strings & Recursion](notes/day2.md)
+- [PalindromeString.java](day2/PalindromeString.java)  
+- [FactorialNumber.java](day2/FactorialNumber.java)  
 
 ---
 
