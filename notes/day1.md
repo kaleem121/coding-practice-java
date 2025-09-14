@@ -20,7 +20,7 @@
 for (int i = 1; i <= m; i++) {
     System.out.println(n + " x " + i + " = " + (n * i));
 }
-
+```
 
 Complexity: O(m) time, O(1) space.
 
@@ -55,7 +55,7 @@ Key Learning: Practiced loops, Scanner input handling, and formatted printing.
   return sign * rev
 
 - **Code Snippet (core logic):**
-
+```java
 int sign = n < 0 ? -1 : 1;
 n = Math.abs(n);
 while (n > 0) {
@@ -64,6 +64,8 @@ while (n > 0) {
     n /= 10;
 }
 return sign * rev;
+
+```
 
 Complexity: O(d) time (where d = number of digits), O(1) space.
 
