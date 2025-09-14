@@ -3,10 +3,15 @@
 ## 📂 Repository Structure
 coding-practice-java/
 ├── day01/
+
 │ ├── MultiplicationTable.java
+
 │ └── ReverseNumber.java
+
 ├── notes/
+
 │ └── day01.md
+
 └── README.md
 
 

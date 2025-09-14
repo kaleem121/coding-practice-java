@@ -25,32 +25,33 @@ Complexity: O(m) time, O(1) space.
 
 Key Learning: Practiced loops, Scanner input handling, and formatted printing.
 
+
 ## Problem 2: Reverse Number
 
 - **Problem (in my words):**  
-Reverse the digits of an integer, handling negative numbers as well.
+  Reverse the digits of an integer, handling negative numbers as well.
 
 - **Approach:** 
 
-Check the sign of the number.
+  Check the sign of the number.
 
-Work with the absolute value.
+  Work with the absolute value.
 
-Extract digits using % 10.
+  Extract digits using % 10.
 
-Build reversed number with rev = rev * 10 + digit.
+  Build reversed number with rev = rev * 10 + digit.
 
-Apply sign back at the end.
+  Apply sign back at the end.
 
 - **Pseudocode:**
-sign = -1 if n < 0 else 1
-n = abs(n)
-rev = 0
-while n > 0:
-    digit = n % 10
-    rev = rev * 10 + digit
-    n = n / 10
-return sign * rev
+  sign = -1 if n < 0 else 1
+  n = abs(n)
+  rev = 0
+  while n > 0:
+  digit = n % 10
+  rev = rev * 10 + digit
+  n = n / 10
+  return sign * rev
 
 - **Code Snippet (core logic):**
 
