@@ -21,6 +21,7 @@ for (int i = 1; i <= m; i++) {
     System.out.println(n + " x " + i + " = " + (n * i));
 }
 
+
 Complexity: O(m) time, O(1) space.
 
 Key Learning: Practiced loops, Scanner input handling, and formatted printing.
