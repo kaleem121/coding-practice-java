@@ -58,7 +58,7 @@ Key learnings.
 👉 Full Java code = kept in this repo.
 👉 Concise notes = kept in notes/ folder (for revision).
 
-##🏆 Goals
+## 🏆 Goals
 
 Solve 2 problems per day.
 
@@ -68,7 +68,7 @@ Solve at least 50+ problems in 30 days.
 
 Gain confidence for coding tests & interviews.
 
-##🔗 Useful Links
+## 🔗 Useful Links
 
 LeetCode
 
